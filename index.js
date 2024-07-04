@@ -6,6 +6,22 @@ var product1 = document.getElementById("product1")
             var qty2 = document.getElementById("qty2")
             var price2 = document.getElementById("price2")
 
+            var product2 = document.getElementById("product3")
+            var qty2 = document.getElementById("qty3")
+            var price2 = document.getElementById("price3")
+
+            var product2 = document.getElementById("product4")
+            var qty2 = document.getElementById("qty4")
+            var price2 = document.getElementById("price4")
+
+             var product2 = document.getElementById("product5")
+            var qty2 = document.getElementById("qty5")
+            var price2 = document.getElementById("price5")
+
+            var product2 = document.getElementById("product6")
+            var qty2 = document.getElementById("qty6")
+            var price2 = document.getElementById("price6")
+
             var carts = document.getElementById("carts")
             var total = document.getElementById("total")
             var cash = document.getElementById("cash")
